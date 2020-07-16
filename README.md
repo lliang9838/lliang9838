@@ -1,4 +1,4 @@
-[RESUME](https://leslieliang.dev/static/media/resume.71c95283.pdf)
+[RESUME](https://leslieliang.dev/resume.pdf)
 
 ## About Me
 * UCLA Computer Science Graduate in 2019
