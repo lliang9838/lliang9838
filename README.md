@@ -1,16 +1,24 @@
-### Hi there 👋
+## About Me
+* UCLA Computer Science Graduate in 2019
+* Avid Web Applications Developer
+* Software Engineer at Northrop Grumman
+* Novice in Trading and Investing
+* Basketball Fanatic
 
-<!--
-**lliang9838/lliang9838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+* Full-stack web development
+* Application development
+* Responsive web design
+* Writing efficient algorithms
+* Problem solving
 
-Here are some ideas to get you started:
+## Familiar in
+* React
+* Angular
+* Express
+* Node
+* MongoDB
+* MySQL
+* C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learn more about me at https://leslieliang.dev/
